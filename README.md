@@ -64,9 +64,9 @@
 
 2. Como o formulário ficou funcional:
   Através dos comando usando "action" e "value" com as url devidas:
-  <form action="https://formsubmit.co/alexandre.b.santana@aluno.senai.br" method="post">
+  <!--<form action="https://formsubmit.co/alexandre.b.santana@aluno.senai.br" method="post">
   <button type="submit" name="_next" value="http://127.0.0.1:5500/congratulations.html" style="border-radius: 5px;">                 Enviar
- </button>
+ </button>-->
 
 3.Comandos Git usados na criação e publicação do repositório:
    * git init
